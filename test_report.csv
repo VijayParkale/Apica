@@ -1,0 +1,22 @@
+id_usrname,testcase,result
+johnp@abc1.com,create new user,FAIL
+johnp@abc.com,create new user,PASS
+line@xyz.com,create new user,PASS
+line@xyz.com,create new user,PASS
+line@xyz.com,create new user,PASS
+line@xyz.com,create new user,PASS
+line@xyz.com,create new user,PASS
+line@xyz.com,delete new user,PASS
+rony@abc.com,create new user,PASS
+rony@abc.com,delete new user,PASS
+rony@abc.com,delete new user,FAIL
+api,verify the API to get the results from a check and validate it gets a HTTP 200 and that check has the enabled property,PASS
+rony@abc.com,create new user,PASS
+rony@abc.com,create new user,PASS
+rony@abc.com,create new user,PASS
+rony@abc.com,delete new user,PASS
+api,verify the API to get the results from a check and validate it gets a HTTP 200 and that check has the enabled property,PASS
+rony@abc.com,create new user,PASS
+rahul@abc.com,create new user,FAIL
+rony@abc.com,delete new user,PASS
+rony@abc.com,delete new user,FAIL
